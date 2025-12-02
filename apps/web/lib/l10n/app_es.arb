@@ -1,0 +1,50 @@
+{
+  "@@locale": "es",
+  "appTitle": "Multi-Poster",
+  "productModeLabel": "📦 Publicar producto",
+  "simpleModeLabel": "💬 Mensaje simple",
+  "platformSelectorTitle": "¿Dónde publicar?",
+  "platformTelegram": "📱 Telegram",
+  "platformTwitter": "🐦 X (Twitter)",
+  "platformWarning": "⚠️ Selecciona al menos una plataforma",
+  "productLinkLabel": "Enlace del producto",
+  "productLinkHint": "https://www.mercadolibre.com/producto...",
+  "supportedStoresDescription": "Compatible con: Mercado Libre, Amazon y Shopee",
+  "analyzeProductButton": "🔍 Analizar producto",
+  "analyzingProductButton": "🔍 Analizando producto...",
+  "productFoundTitle": "✅ ¡Producto encontrado!",
+  "productTitleWithValue": "Título: {title}",
+  "@productTitleWithValue": {
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "emojiLabel": "Emoji",
+  "phraseLabel": "Frase llamativa (editable)",
+  "priceLabel": "Precio (edita si es diferente)",
+  "priceEditedWarning": "⚠️ Precio editado (original: {price})",
+  "@priceEditedWarning": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "couponFieldLabel": "¿Tiene cupón? (déjalo en blanco si no)",
+  "couponFieldHint": "Ej: FREESHIP",
+  "postResultLabel": "Resultado:",
+  "postBothButton": "📤 Publicar en las 2 redes",
+  "postTelegramButton": "📤 Publicar en Telegram",
+  "postTwitterButton": "📤 Publicar en X",
+  "postPostingButton": "📤 Publicando...",
+  "messageFieldLabel": "Mensaje",
+  "messageFieldHint": "Escribe tu mensaje aquí...",
+  "sendBothButton": "📤 Enviar a las 2 redes",
+  "sendTelegramButton": "📤 Enviar a Telegram",
+  "sendTwitterButton": "📤 Enviar a X",
+  "sendPostingButton": "📤 Enviando...",
+  "validationProductUrlRequired": "¡Ingresa la URL del producto!",
+  "validationScrapeFirst": "¡Analiza el producto antes de publicar!",
+  "validationSelectPlatform": "¡Selecciona al menos una plataforma para enviar!",
+  "validationMessageRequired": "¡Escribe un mensaje!",
+  "genericError": "Algo salió mal. Inténtalo de nuevo."
+}
+

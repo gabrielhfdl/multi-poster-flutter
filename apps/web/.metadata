@@ -1,0 +1,14 @@
+version:
+  revision: "stable"
+  channel: "stable"
+
+project_type: web
+
+migration:
+  platforms:
+    - platform: web
+      create_revision: stable
+      base_revision: stable
+
+
+

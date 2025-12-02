@@ -1,0 +1,50 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Multi-Poster",
+  "productModeLabel": "📦 Postar Produto",
+  "simpleModeLabel": "💬 Mensagem Simples",
+  "platformSelectorTitle": "Onde postar?",
+  "platformTelegram": "📱 Telegram",
+  "platformTwitter": "🐦 X (Twitter)",
+  "platformWarning": "⚠️ Selecione pelo menos uma plataforma",
+  "productLinkLabel": "Link do Produto",
+  "productLinkHint": "https://www.mercadolivre.com.br/produto...",
+  "supportedStoresDescription": "Suporta: Mercado Livre, Amazon e Shopee",
+  "analyzeProductButton": "🔍 Analisar Produto",
+  "analyzingProductButton": "🔍 Analisando produto...",
+  "productFoundTitle": "✅ Produto encontrado!",
+  "productTitleWithValue": "Título: {title}",
+  "@productTitleWithValue": {
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "emojiLabel": "Emoji",
+  "phraseLabel": "Frase chamativa (pode editar)",
+  "priceLabel": "Preço (pode editar se estiver diferente)",
+  "priceEditedWarning": "⚠️ Preço editado (original: {price})",
+  "@priceEditedWarning": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "couponFieldLabel": "Tem cupom? (deixe em branco se não tiver)",
+  "couponFieldHint": "Ex: LIBERACUPOM",
+  "postResultLabel": "Resultado:",
+  "postBothButton": "📤 Postar nas 2 redes",
+  "postTelegramButton": "📤 Postar no Telegram",
+  "postTwitterButton": "📤 Postar no X",
+  "postPostingButton": "📤 Postando...",
+  "messageFieldLabel": "Mensagem",
+  "messageFieldHint": "Digite sua mensagem aqui...",
+  "sendBothButton": "📤 Enviar nas 2 redes",
+  "sendTelegramButton": "📤 Enviar no Telegram",
+  "sendTwitterButton": "📤 Enviar no X",
+  "sendPostingButton": "📤 Enviando...",
+  "validationProductUrlRequired": "Por favor, digite a URL do produto!",
+  "validationScrapeFirst": "Por favor, faça a análise do produto antes de postar!",
+  "validationSelectPlatform": "Selecione pelo menos uma plataforma para enviar!",
+  "validationMessageRequired": "Por favor, digite uma mensagem!",
+  "genericError": "Algo deu errado. Tente novamente."
+}
+

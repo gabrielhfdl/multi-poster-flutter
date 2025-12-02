@@ -1,0 +1,50 @@
+{
+  "@@locale": "en",
+  "appTitle": "Multi-Poster",
+  "productModeLabel": "📦 Post Product",
+  "simpleModeLabel": "💬 Simple Message",
+  "platformSelectorTitle": "Where to post?",
+  "platformTelegram": "📱 Telegram",
+  "platformTwitter": "🐦 X (Twitter)",
+  "platformWarning": "⚠️ Select at least one platform",
+  "productLinkLabel": "Product link",
+  "productLinkHint": "https://www.mercadolivre.com.br/product...",
+  "supportedStoresDescription": "Supports: Mercado Livre, Amazon, and Shopee",
+  "analyzeProductButton": "🔍 Analyze Product",
+  "analyzingProductButton": "🔍 Analyzing product...",
+  "productFoundTitle": "✅ Product found!",
+  "productTitleWithValue": "Title: {title}",
+  "@productTitleWithValue": {
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "emojiLabel": "Emoji",
+  "phraseLabel": "Catchy phrase (editable)",
+  "priceLabel": "Price (edit if different)",
+  "priceEditedWarning": "⚠️ Edited price (original: {price})",
+  "@priceEditedWarning": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "couponFieldLabel": "Have a coupon? (leave blank if not)",
+  "couponFieldHint": "Ex: FREESHIP",
+  "postResultLabel": "Result:",
+  "postBothButton": "📤 Post to both networks",
+  "postTelegramButton": "📤 Post to Telegram",
+  "postTwitterButton": "📤 Post to X",
+  "postPostingButton": "📤 Posting...",
+  "messageFieldLabel": "Message",
+  "messageFieldHint": "Type your message here...",
+  "sendBothButton": "📤 Send to both networks",
+  "sendTelegramButton": "📤 Send to Telegram",
+  "sendTwitterButton": "📤 Send to X",
+  "sendPostingButton": "📤 Sending...",
+  "validationProductUrlRequired": "Please enter the product URL!",
+  "validationScrapeFirst": "Please analyze the product before posting!",
+  "validationSelectPlatform": "Select at least one platform to send!",
+  "validationMessageRequired": "Please type a message!",
+  "genericError": "Something went wrong. Try again."
+}
+

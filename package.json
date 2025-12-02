@@ -1,0 +1,15 @@
+{
+  "name": "multi-poster",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "cd apps/web && flutter run -d chrome",
+    "dev:server": "npm run dev --workspace=packages/server",
+    "build:web": "cd apps/web && flutter build web",
+    "setup:web": "cd apps/web && flutter pub get"
+  }
+}
